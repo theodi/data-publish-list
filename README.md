@@ -11,7 +11,7 @@ If you would like to expand or adapt this list yourself, please feel free to for
 *  [Data publishing platforms](#data-publishing-platforms)  – some tools which can help put data on the web
 *  [Dataset metadata](#dataset-metadata)  – standards and advice for data that describes datasets
 *  [Tabular Data and CSVs](#tabular-data-and-csvs)  – tools and advice 
-*  [Application programming interfaces (APIs)](https://docs.google.com/document/d/1f-VM5APyThXsonwj9NBUubDNW_FStySxpvXTV3oocj8/edit#heading=h.xwut02ri0yd9)  – best practices for machine-readable APIs
+*  [Application programming interfaces (APIs)](#application-programming-interfaces-(APIs))  – best practices for machine-readable APIs
 *  [Naming data files and datasets](#naming-data-files-and-datasets)  – how to name datasets for easy finding and use 
 *  [Accessibility](#accessibility)  – how to be inclusive of all people’s needs when publishing data
 *  [Data licences](#data-licences)   – what licences are for and how to pick the right one
