@@ -1,4 +1,4 @@
-# Publishing open data – a list of tips and tools
+# Publishing open data – a list of advice and tools
 
 This is a curated list of links which we, at the  [Open Data Institute](https://theodi.org/) , think are most helpful in publishing open data. It includes useful links and advice about platforms, licences, metadata and standards.
 
