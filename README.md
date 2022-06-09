@@ -8,14 +8,14 @@ If you would like to expand or adapt this list yourself, please feel free to for
 
 ## Contents
 *  [About open data](#about-open-data)  – the key concepts behind open data
-*  [Data publishing platforms](https://docs.google.com/document/d/1f-VM5APyThXsonwj9NBUubDNW_FStySxpvXTV3oocj8/edit#heading=h.vq6ivn2iq9us)  – some tools which can help put data on the web
-*  [Dataset metadata](https://docs.google.com/document/d/1f-VM5APyThXsonwj9NBUubDNW_FStySxpvXTV3oocj8/edit#heading=h.264wwyi8nxv)  – standards and advice for data that describes datasets
-*  [Tabular Data and CSVs](https://docs.google.com/document/d/1f-VM5APyThXsonwj9NBUubDNW_FStySxpvXTV3oocj8/edit#heading=h.r1p86r66kt2)  – tools and advice 
+*  [Data publishing platforms](#data-publishing-platforms)  – some tools which can help put data on the web
+*  [Dataset metadata](#dataset-metadata)  – standards and advice for data that describes datasets
+*  [Tabular Data and CSVs](#tabular-data-and-csvs)  – tools and advice 
 *  [Application programming interfaces (APIs)](https://docs.google.com/document/d/1f-VM5APyThXsonwj9NBUubDNW_FStySxpvXTV3oocj8/edit#heading=h.xwut02ri0yd9)  – best practices for machine-readable APIs
-*  [Naming data files and datasets](https://docs.google.com/document/d/1f-VM5APyThXsonwj9NBUubDNW_FStySxpvXTV3oocj8/edit#heading=h.zc53frvcvlgc)  – how to name datasets for easy finding and use 
-*  [Accessibility](https://docs.google.com/document/d/1f-VM5APyThXsonwj9NBUubDNW_FStySxpvXTV3oocj8/edit#heading=h.5z9qrxvzc8sj)  – how to be inclusive of all people’s needs when publishing data
-*  [Data licences](https://docs.google.com/document/d/1f-VM5APyThXsonwj9NBUubDNW_FStySxpvXTV3oocj8/edit#heading=h.1u73japbr02w)   – what licences are for and how to pick the right one
-*  [Data standards](https://docs.google.com/document/d/1f-VM5APyThXsonwj9NBUubDNW_FStySxpvXTV3oocj8/edit#heading=h.u2uxawqyd78e)  – why standards are important and how to develop one
+*  [Naming data files and datasets](#naming-data-files-and-datasets)  – how to name datasets for easy finding and use 
+*  [Accessibility](#accessibility)  – how to be inclusive of all people’s needs when publishing data
+*  [Data licences](#data-licences)   – what licences are for and how to pick the right one
+*  [Data standards](#data-standards) – why standards are important and how to develop one
 
 ## About open data
 Before getting to the tools and techniques of publishing, it’s important to know the core definitions and principles of open data.
