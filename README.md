@@ -36,6 +36,7 @@ Before getting to the tools and techniques of publishing, it’s important to kn
 * They contain some important points which weren’t mentioned in the previous link
 
 **[The Data Spectrum](https://theodi.org/about-the-odi/the-data-spectrum/)  | Open Data Institute**
+
 * Data exists on a spectrum from closed to shared to open
 * Data should be as open as responsibly possible, while protecting people’s privacy, commercial confidentiality and national security.
 
