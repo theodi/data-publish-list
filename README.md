@@ -19,7 +19,9 @@ If you would like to expand or adapt this list yourself, please feel free to for
 Before getting to the tools and techniques of publishing, it’s important to know the core definitions and principles of open data.
 
 **[The Open Definition](https://opendefinition.org/)  | Open Knowledge Foundation**
-* *‘Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness)’*
+
+* ‘Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness)’*
+
 * The definition is available in many languages
 * The Open Knowledge Foundation is a non-profit, international organisation and behind a number of the resources linked to here
 
