@@ -1,5 +1,7 @@
 # Publishing open data – a list of advice and tools
 
+<img src="./open_data_illustration.png" alt="i typed open data in to one of those AI image generation things and got this" width="700"/>
+
 This is a curated list of links which we, at the  [Open Data Institute](https://theodi.org/) , think are most helpful in publishing open data. It includes useful links and advice about platforms, licences, metadata and standards.
 
 If you would like to expand or adapt this list yourself, please feel free to fork the project. If you would like to recommend some resources for this guide, please create a  [GitHub Issue](https://docs.github.com/en/issues) , and we’ll consider them. 
