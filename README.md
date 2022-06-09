@@ -7,7 +7,7 @@ This is a curated list of links which we, at the  [Open Data Institute](https://
 If you would like to expand or adapt this list yourself, please feel free to fork the project. If you would like to recommend some resources for this guide, please create a  [GitHub Issue](https://docs.github.com/en/issues) , and we’ll consider them. 
 
 ## Contents
-*  [About open data](https://docs.google.com/document/d/1f-VM5APyThXsonwj9NBUubDNW_FStySxpvXTV3oocj8/edit#heading=h.53uypm6tb1oc)  – the key concepts behind open data
+*  [About open data](#about-open-data)  – the key concepts behind open data
 *  [Data publishing platforms](https://docs.google.com/document/d/1f-VM5APyThXsonwj9NBUubDNW_FStySxpvXTV3oocj8/edit#heading=h.vq6ivn2iq9us)  – some tools which can help put data on the web
 *  [Dataset metadata](https://docs.google.com/document/d/1f-VM5APyThXsonwj9NBUubDNW_FStySxpvXTV3oocj8/edit#heading=h.264wwyi8nxv)  – standards and advice for data that describes datasets
 *  [Tabular Data and CSVs](https://docs.google.com/document/d/1f-VM5APyThXsonwj9NBUubDNW_FStySxpvXTV3oocj8/edit#heading=h.r1p86r66kt2)  – tools and advice 
