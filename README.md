@@ -1,4 +1,4 @@
-# Publishing open data – a list of advice and tools
+# How to publish open data – a list of advice and tools
 
 <p align="center"><img src="./open_data_illustration.png" alt="i typed open data in to one of those AI image generation things and got this" width="500"/></p>
 
