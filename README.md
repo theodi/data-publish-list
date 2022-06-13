@@ -4,17 +4,17 @@
 
 This is a curated list of links which we, at the  [Open Data Institute](https://theodi.org/), think are most helpful in publishing open data. It includes useful links and advice about platforms, licences, metadata and standards.
 
-If you would like to expand or adapt this list yourself, please feel free to fork the project. If you would like to recommend some resources for this guide, please create a  [GitHub Issue](https://docs.github.com/en/issues) , and we’ll consider them. 
+If you would like to expand or adapt this list yourself, please feel free to fork the project. If you would like to recommend some resources for this guide, please create a  [GitHub Issue](https://docs.github.com/en/issues), and we’ll consider them. 
 
 ## Contents
-*  [About open data](#about-open-data)  – the key concepts behind open data
-*  [Data publishing platforms](#data-publishing-platforms)  – some tools which can help put data on the web
+*  [About open data](#about-open-data) – the key concepts behind open data
+*  [Data publishing platforms](#data-publishing-platforms) – some tools which can help put data on the web
 *  [Dataset metadata](#dataset-metadata)  – standards and advice for data that describes datasets
-*  [Tabular Data and CSVs](#tabular-data-and-csvs)  – tools and advice 
-*  [Application programming interfaces (APIs)](#application-programming-interfaces-apis)  – best practices for machine-readable APIs
+*  [Tabular Data and CSVs](#tabular-data-and-csvs) – tools and advice 
+*  [Application programming interfaces (APIs)](#application-programming-interfaces-apis) – best practices for machine-readable APIs
 *  [Naming data files and datasets](#naming-data-files-and-datasets)  – how to name datasets for easy finding and use 
-*  [Accessibility](#accessibility)  – how to be inclusive of all people’s needs when publishing data
-*  [Data licences](#data-licences)   – what licences are for and how to pick the right one
+*  [Accessibility](#accessibility) – how to be inclusive of all people’s needs when publishing data
+*  [Data licences](#data-licences) – what licences are for and how to pick the right one
 *  [Data standards](#data-standards) – why standards are important and how to develop one
 
 ## About open data
@@ -56,7 +56,7 @@ Before getting to the tools and techniques of publishing, it’s important to kn
 * *‘CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data.’*
 * The biggest and most widely used data platform by large public organisations. 
 * Features include APIs, visualisations, search and analytics 
-* Over  [250 user-generated extensions](https://extensions.ckan.org/)  available 
+* Over [250 user-generated extensions](https://extensions.ckan.org/) available 
 
  **[Datasette](https://datasette.io/)** 
 * ‘*Datasette is a tool for exploring and publishing data. It helps people take data of any shape or size, analyze and explore it, and publish it as an interactive website and accompanying API*
@@ -71,12 +71,12 @@ Before getting to the tools and techniques of publishing, it’s important to kn
 **[OpenDataSoft](https://www.opendatasoft.com/)** 
 * Large, many-featured, software service share and visualise open datasets
 * Holds a large share of the open data publishing market across public and private organisations
-* Runs a  [Data Hub](https://data.opendatasoft.com/pages/home/)  which gives access to nearly 27,000 open datasets. 
+* Runs a [Data Hub](https://data.opendatasoft.com/pages/home/) which gives access to nearly 27,000 open datasets. 
 
 **[Open Data Platform (powered by Socrata)](https://www.tylertech.com/products/data-insights/open-data-platform) | Tyler Technologies** 
 * Socrata is a software service for data insights that was acquired Tyler Technologies in 2018
 * Popular product in the open data publishing space
-* Connected to the  [Open Data Network](http://www.opendatanetwork.com/)  to browse and access open dataset, with a  [discovery API](https://socratadiscovery.docs.apiary.io/#) .
+* Connected to the [Open Data Network](http://www.opendatanetwork.com/) to browse and access open dataset, with a [discovery API](https://socratadiscovery.docs.apiary.io/#).
 
 
 ## Dataset metadata
@@ -85,11 +85,11 @@ Dataset metadata is data that describes and provides information about data. Add
 **[Data and Datasets](https://schema.org/docs/data-and-datasets.html) | schema.org**
 * Schema.org is a community that agrees on data standards to add to structured data when publishing to the web
 * It’s used by several big search engines to find and index datasets on the web
-* Schema.org also provides overviews of the  [Dataset](https://schema.org/Dataset)  and  [DataCatalog](https://schema.org/DataCatalog)  types (*DataCatalog*s can contain multiple *Dataset*s) 
+* Schema.org also provides overviews of the [Dataset](https://schema.org/Dataset) and [DataCatalog](https://schema.org/DataCatalog) types (*DataCatalog*s can contain multiple *Dataset*s) 
 
 **[Dataset | Documentation](https://developers.google.com/search/docs/advanced/structured-data/dataset)  | Google Developers**
 * Guidance on how to add structured data (like that from Schema.org) to a dataset
-* Essential properties required for Google Dataset Search  – such as *description* and *name* – are listed in the   [properties](https://developers.google.com/search/docs/advanced/structured-data/dataset#dataset)  sectio
+* Essential properties required for Google Dataset Search – such as *description* and *name* – are listed in the [properties](https://developers.google.com/search/docs/advanced/structured-data/dataset#dataset) section.
 * Other recommended properties are useful for metadata, such as *creator*, *licence* and *url*. 
 
 **[Marking up your dataset with DCAT](https://theodi.org/article/marking-up-your-dataset-with-dcat/)  | Open Data Institute**
@@ -119,11 +119,11 @@ Dataset metadata is data that describes and provides information about data. Add
 	* *tools that are easier to use*
 	* *better tools for checking and ensuring quality of the published data*
 	* *better integration between tools in the publishing workflow*
-* Includes a link to a  [register of open source tools](https://docs.google.com/spreadsheets/d/11yyev1MyDZqR7iS0FgLqwgCe_D3XkS--97x0b6cNeF0/edit#gid=2015018097) 
+* Includes a link to a [register of open source tools](https://docs.google.com/spreadsheets/d/11yyev1MyDZqR7iS0FgLqwgCe_D3XkS--97x0b6cNeF0/edit#gid=2015018097) 
 
 **[Using CSV file format](https://www.gov.uk/guidance/using-csv-file-format)  | UK Government Digital Service**
 * Aimed at people working in the UK government, but contains lots of good points
-* ‘ [Setting up your CSV file](https://www.gov.uk/guidance/using-csv-file-format#setting-up-your-csv-file) ’ describes the basics of well-formatted CSVs
+* ‘[Setting up your CSV file](https://www.gov.uk/guidance/using-csv-file-format#setting-up-your-csv-file)’ describes the basics of well-formatted CSVs
 * Includes useful advice on when and when not to use CSV files. 
 
 **[Tidy data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)  | Hadley Wickham**
