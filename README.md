@@ -22,8 +22,7 @@ Before getting to the tools and techniques of publishing, it’s important to kn
 
 **[The Open Definition](https://opendefinition.org/)  | Open Knowledge Foundation**
 
-* ‘Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness)’*
-
+* *‘Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness)’*
 * The definition is available in many languages
 * The Open Knowledge Foundation is a non-profit, international organisation and behind a number of the resources linked to here
 
